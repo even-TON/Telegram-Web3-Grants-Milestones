@@ -34,4 +34,4 @@ We will be sharing regular updates, exciting announcements, and opportunities fo
 
 ---
 
-[Link to Telegram Web3 Grant Proposal](https://questbook.app/dashboard/grantId=0x3d9a26d083419d0d6cb0c5d9aed527698254b3ea&chainId=10&role=community&proposalId=0x3da&isRenderingProposalBody=true)
+[Link to Telegram Web3 Grant Proposal](https://questbook.app/dashboard/?grantId=0x3d9a26d083419d0d6cb0c5d9aed527698254b3ea&chainId=10&role=community&proposalId=0x3da&isRenderingProposalBody=true)
