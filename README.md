@@ -5,7 +5,7 @@
 
 Dear EvenTON Community,
 
-![Image](https://raw.githubusercontent.com/even-TON/images/main/Group%206.png?token=GHSAT0AAAAAACG73YFGMQ5CPMQKUUHZWSVGZM6YVMQ)
+![Image](https://bafybeig46bwa3bvq7hf254sousbbd3jeepwmz32qois4f5qryeictarijq.ipfs.nftstorage.link/)
 
 ## Milestone 01 Overview:
 The core focus of Milestone 01 was to establish a robust user interface and user experience for our platform. Our talented team of developers worked tirelessly to create a highly interactive and intuitive interface to enhance your overall experience on the evenTON platform.
