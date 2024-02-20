@@ -9,9 +9,9 @@ Dear EvenTON Community,
 
 ## UI
 
-![Figma](https://www.figma.com/file/UQdmuJQXRwc3F9qNDfZlzW/%F0%9F%8C%83-Eventon---Events-on-Ton?type=design&node-id=1-5&mode=design&t=M3vUhfZU8yNVg2by-0)
+[Figma](https://www.figma.com/file/UQdmuJQXRwc3F9qNDfZlzW/%F0%9F%8C%83-Eventon---Events-on-Ton?type=design&node-id=1-5&mode=design&t=M3vUhfZU8yNVg2by-0)
 
-![Prototype](https://www.figma.com/proto/UQdmuJQXRwc3F9qNDfZlzW/%F0%9F%8C%83-Eventon---Events-on-Ton?type=design&node-id=153-2771&t=M3vUhfZU8yNVg2by-0&scaling=scale-down&page-id=1%3A5&starting-point-node-id=153%3A2771&show-proto-sidebar=1)
+[Prototype](https://www.figma.com/proto/UQdmuJQXRwc3F9qNDfZlzW/%F0%9F%8C%83-Eventon---Events-on-Ton?type=design&node-id=153-2771&t=M3vUhfZU8yNVg2by-0&scaling=scale-down&page-id=1%3A5&starting-point-node-id=153%3A2771&show-proto-sidebar=1)
 
 ## TMA
 
