@@ -37,7 +37,7 @@ The core focus of Milestone 01 was to establish a robust user interface and user
 
 
 ## Community Support:
-We are truly grateful for the unwavering support and enthusiasm shown by our vibrant community. Your feedback and engagement have been instrumental in shaping the direction of our development efforts. Together, we will continue to create a dynamic and inclusive platform for prediction markets and contests on the TON blockchain.
+We are truly grateful for the unwavering support and enthusiasm shown by our vibrant community. Your feedback and engagement have been instrumental in shaping the direction of our development efforts.
 
 
 We will be sharing regular updates, exciting announcements, and opportunities for community involvement.
